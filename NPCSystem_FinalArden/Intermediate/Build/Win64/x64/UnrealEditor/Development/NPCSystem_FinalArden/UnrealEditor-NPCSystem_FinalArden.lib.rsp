@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NPCSystem_FinalArden.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\EMCIRD4\Documents\Github\Proyecto final Arden\FinalUnrealEngineArden\NPCSystem_FinalArden\Intermediate\Build\Win64\x64\NPCSystem_FinalArdenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\EMCIRD4\Documents\Github\Proyecto final Arden\FinalUnrealEngineArden\NPCSystem_FinalArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPCSystem_FinalArden\NPCSystem_FinalArden.init.gen.cpp.obj"
+"C:\Users\EMCIRD4\Documents\Github\Proyecto final Arden\FinalUnrealEngineArden\NPCSystem_FinalArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPCSystem_FinalArden\NPCSystem_FinalArdenCharacter.gen.cpp.obj"
+"C:\Users\EMCIRD4\Documents\Github\Proyecto final Arden\FinalUnrealEngineArden\NPCSystem_FinalArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPCSystem_FinalArden\NPCSystem_FinalArdenGameMode.gen.cpp.obj"
+"C:\Users\EMCIRD4\Documents\Github\Proyecto final Arden\FinalUnrealEngineArden\NPCSystem_FinalArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPCSystem_FinalArden\NPCSystem_FinalArden.cpp.obj"
+"C:\Users\EMCIRD4\Documents\Github\Proyecto final Arden\FinalUnrealEngineArden\NPCSystem_FinalArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPCSystem_FinalArden\NPCSystem_FinalArdenCharacter.cpp.obj"
+"C:\Users\EMCIRD4\Documents\Github\Proyecto final Arden\FinalUnrealEngineArden\NPCSystem_FinalArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPCSystem_FinalArden\NPCSystem_FinalArdenGameMode.cpp.obj"
+"C:\Users\EMCIRD4\Documents\Github\Proyecto final Arden\FinalUnrealEngineArden\NPCSystem_FinalArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPCSystem_FinalArden\PerModuleInline.gen.cpp.obj"
+"C:\Users\EMCIRD4\Documents\Github\Proyecto final Arden\FinalUnrealEngineArden\NPCSystem_FinalArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPCSystem_FinalArden\Default.rc2.res"
+/OUT:"C:\Users\EMCIRD4\Documents\Github\Proyecto final Arden\FinalUnrealEngineArden\NPCSystem_FinalArden\Intermediate\Build\Win64\x64\UnrealEditor\Development\NPCSystem_FinalArden\UnrealEditor-NPCSystem_FinalArden.lib"

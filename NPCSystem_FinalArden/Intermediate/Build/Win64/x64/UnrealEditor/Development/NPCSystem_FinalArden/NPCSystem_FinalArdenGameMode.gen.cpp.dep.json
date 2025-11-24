@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\unrealeditor\\inc\\npcsystem_finalarden\\uht\\npcsystem_finalardengamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\x64\\npcsystem_finalardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\npcsystem_finalarden\\definitions.npcsystem_finalarden.h",
+            "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\source\\npcsystem_finalarden\\npcsystem_finalardengamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\unrealeditor\\inc\\npcsystem_finalarden\\uht\\npcsystem_finalardengamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

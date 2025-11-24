@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NPCSystem_FinalArden",
+			"Path": "..\\Source\\NPCSystem_FinalArden.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NPCSystem_FinalArdenEditor",
+			"Path": "..\\Source\\NPCSystem_FinalArdenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
