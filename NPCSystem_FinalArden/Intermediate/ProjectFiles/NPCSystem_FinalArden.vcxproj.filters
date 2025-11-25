@@ -11,6 +11,7 @@
     <None Include="..\..\Source\NPCSystem_FinalArdenEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,18 @@
     <Filter Include="Source\NPCSystem_FinalArden">
       <UniqueIdentifier>{6BB71788-0521-30E6-8118-F508D2FDC28D}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\NPCSystem_FinalArden\AIController_NPC.cpp">
+      <Filter>Source\NPCSystem_FinalArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCSystem_FinalArden\AIController_NPC.h">
+      <Filter>Source\NPCSystem_FinalArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCSystem_FinalArden\AI_NPC.cpp">
+      <Filter>Source\NPCSystem_FinalArden</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPCSystem_FinalArden\AI_NPC.h">
+      <Filter>Source\NPCSystem_FinalArden</Filter>
+    </ClCompile>
     <None Include="..\..\Source\NPCSystem_FinalArden\NPCSystem_FinalArden.Build.cs">
       <Filter>Source\NPCSystem_FinalArden</Filter>
     </None>

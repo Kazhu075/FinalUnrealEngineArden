@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NPCSystem_FinalArdenModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+347a0a59ddac6aa01ec0cc6c59e631dbfc9dbde9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33e633a2e9bc98be9d1155e4b466c47281c375e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NPCSystem_FinalArdenModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NPCSystem_FinalArdenModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

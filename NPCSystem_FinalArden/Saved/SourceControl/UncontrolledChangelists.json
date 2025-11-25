@@ -5,7 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/AI/BB_NPC.uasset",
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/AI/BT_NPC.uasset",
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/AI/BP_AIController_NPC.uasset",
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/BluePrints/BP_AI_NPC.uasset",
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JH/0OJXWYUIRFA51QP2YGS2ZY.uasset",
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/7W/QLJCX0QQ02CP81EDUMKJE4.uasset",
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/XW/I717PDU1PIHHYMHEIMMO8L.uasset",
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/EB/EUE02CO1QIS1FLX0IK2LHB.uasset",
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7Y/PTA6BQOIVQ6JM3YX7ZCTX3.uasset",
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/F8/WUBDL6RS6JW4J5RUZTV5XQ.uasset",
+				"C:/Users/EMCIRD4/Documents/Github/Proyecto final Arden/FinalUnrealEngineArden/NPCSystem_FinalArden/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/KV/X4X5B5GLYT16VQSSQOM7NR.uasset"
 			]
 		}
 	]
