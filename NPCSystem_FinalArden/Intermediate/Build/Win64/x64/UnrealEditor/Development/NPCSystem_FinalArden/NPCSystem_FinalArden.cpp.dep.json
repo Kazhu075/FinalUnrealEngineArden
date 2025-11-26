@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\source\\npcsystem_finalarden\\npcsystem_finalarden.cpp",
+        "Source": "c:\\users\\kazhu\\documents\\github\\final unreal engine\\finalunrealenginearden\\npcsystem_finalarden\\source\\npcsystem_finalarden\\npcsystem_finalarden.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\x64\\npcsystem_finalardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\kazhu\\documents\\github\\final unreal engine\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\x64\\npcsystem_finalardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\npcsystem_finalarden\\definitions.npcsystem_finalarden.h",
-            "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\source\\npcsystem_finalarden\\npcsystem_finalarden.h"
+            "c:\\users\\kazhu\\documents\\github\\final unreal engine\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\npcsystem_finalarden\\definitions.npcsystem_finalarden.h",
+            "c:\\users\\kazhu\\documents\\github\\final unreal engine\\finalunrealenginearden\\npcsystem_finalarden\\source\\npcsystem_finalarden\\npcsystem_finalarden.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

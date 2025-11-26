@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\EMCIRD4\\Documents\\Github\\Proyecto final Arden\\FinalUnrealEngineArden\\NPCSystem_FinalArden\\Source\\NPCSystem_FinalArden\\NPCSystem_FinalArden.Build.cs",
-		"C:\\Users\\EMCIRD4\\Documents\\Github\\Proyecto final Arden\\FinalUnrealEngineArden\\NPCSystem_FinalArden\\Source\\NPCSystem_FinalArden.Target.cs",
-		"C:\\Users\\EMCIRD4\\Documents\\Github\\Proyecto final Arden\\FinalUnrealEngineArden\\NPCSystem_FinalArden\\Source\\NPCSystem_FinalArdenEditor.Target.cs"
+		"C:\\Users\\kazhu\\Documents\\GitHub\\Final Unreal Engine\\FinalUnrealEngineArden\\NPCSystem_FinalArden\\Source\\NPCSystem_FinalArden\\NPCSystem_FinalArden.Build.cs",
+		"C:\\Users\\kazhu\\Documents\\GitHub\\Final Unreal Engine\\FinalUnrealEngineArden\\NPCSystem_FinalArden\\Source\\NPCSystem_FinalArden.Target.cs",
+		"C:\\Users\\kazhu\\Documents\\GitHub\\Final Unreal Engine\\FinalUnrealEngineArden\\NPCSystem_FinalArden\\Source\\NPCSystem_FinalArdenEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

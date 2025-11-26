@@ -1,22 +1,22 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\unrealeditor\\inc\\npcsystem_finalarden\\uht\\npcsystem_finalardencharacter.gen.cpp",
+        "Source": "c:\\users\\kazhu\\documents\\github\\final unreal engine\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\unrealeditor\\inc\\npcsystem_finalarden\\uht\\npcsystem_finalardencharacter.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\x64\\npcsystem_finalardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\kazhu\\documents\\github\\final unreal engine\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\x64\\npcsystem_finalardeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\npcsystem_finalarden\\definitions.npcsystem_finalarden.h",
-            "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\source\\npcsystem_finalarden\\npcsystem_finalardencharacter.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
-            "c:\\users\\emcird4\\documents\\github\\proyecto final arden\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\unrealeditor\\inc\\npcsystem_finalarden\\uht\\npcsystem_finalardencharacter.generated.h"
+            "c:\\users\\kazhu\\documents\\github\\final unreal engine\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\npcsystem_finalarden\\definitions.npcsystem_finalarden.h",
+            "c:\\users\\kazhu\\documents\\github\\final unreal engine\\finalunrealenginearden\\npcsystem_finalarden\\source\\npcsystem_finalarden\\npcsystem_finalardencharacter.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\kazhu\\documents\\github\\final unreal engine\\finalunrealenginearden\\npcsystem_finalarden\\intermediate\\build\\win64\\unrealeditor\\inc\\npcsystem_finalarden\\uht\\npcsystem_finalardencharacter.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
